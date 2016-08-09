@@ -1,0 +1,33 @@
+body {
+    font-size: medium;
+    font-family: Anton;
+    width: 500px;
+    letter-spacing: 1px;
+}
+
+* {
+    margin: 20px;
+    border: solid red 1px;
+}
+
+p {
+    padding: 80px;
+    background-color: #00D736;
+}
+
+p.green {
+    margin: auto;
+    font-family: Arial;
+}
+
+h1 {
+    font-family: Anton;
+    font-size: 1.5em;
+    background-color: #D7CB20;
+    border: 3;
+    border-style: dashed;
+}
+
+h2 {
+    background-color: #D7BEA5;
+}
